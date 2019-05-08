@@ -1,0 +1,6 @@
+C:\Projects\Sitecore.Support.328316\src\Sitecore.Support.328316\obj\Release\Sitecore.Support.328316.csproj.CoreCompileInputs.cache
+C:\Projects\Sitecore.Support.328316\src\Sitecore.Support.328316\bin\Sitecore.Support.328316.dll.config
+C:\Projects\Sitecore.Support.328316\src\Sitecore.Support.328316\bin\Sitecore.Support.328316.dll
+C:\Projects\Sitecore.Support.328316\src\Sitecore.Support.328316\bin\Sitecore.Support.328316.pdb
+C:\Projects\Sitecore.Support.328316\src\Sitecore.Support.328316\obj\Release\Sitecore.Support.328316.dll
+C:\Projects\Sitecore.Support.328316\src\Sitecore.Support.328316\obj\Release\Sitecore.Support.328316.pdb
